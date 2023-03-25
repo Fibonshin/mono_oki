@@ -32,5 +32,4 @@ int main() {
         cout<<S<<endl;
         Sleep(10000/SPEED);
     }
-
 }
